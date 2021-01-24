@@ -1,3 +1,6 @@
+# quantiacs-ml
+A fork of quantiacs-python. I've made minor modifications to quantiacsToolbox.py but primarily added my own model training and evaluation infrastructure.
+
 # quantiacs-python
 Python version of [Quantiacs](https://www.quantiacs.com/Home.aspx) toolbox and sample trading strategies.
 
